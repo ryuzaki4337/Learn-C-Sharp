@@ -114,6 +114,14 @@ We can access arrays using [] notation.
 
 When we declare an array, all the elements of the array are set to a default value of the data type.
 
+In C#, we have single and multi dimensional arrays.
+
+We have two types of multi-dimensional arrays i.e. Rectangular and Jagged arrays.
+
+Some of the properties which are used in C# Arrays are:
+
+length, clear(), copy(), IndexOf(), Reverse(), Sort() etc.
+
 
 #### Strings
  
@@ -168,5 +176,51 @@ You need to allocate memory,
 Memory allocated on heap,
 Garbage collected by CLR.
 
+### Control Flow
 
+#### Conditional Statements
+
+##### If/else Statements
+
+ If the condition in the "if" keyword is true, then the statements in the "if" block get executed, else if the condition in the "else if" keyword is true, then the statements in the "else if" block get executed, otherwise the statements in the "else" block get executed.
  
+ We can also nested if/else if statements.
+ 
+##### Switch/case Statements
+
+Unlike if/else, a variable used in the "switch" statement is compared using "cases", if any case matches then the statements in that block get executed. "default" keyword's block statements get executed if none of the cases match. 
+
+We need to be very careful with the "break" statement. 
+
+#### Iteration Statements
+
+##### For loops
+
+The "for" statement has three parts, initialisation clause, condition clause and the iteration clause. If the condition in the condition clause is satisified, then the set of statements under the "for" block get executed.
+
+##### Foreach loops
+
+For each is used to iterate over elements of an enumerable object.
+We can use this loop using the 'foreach' keyword.
+
+##### While loops
+
+Similar to for loop, "while" loop's initialisation clause is outside the while loop, conditional clause is used with the while keyword and iteration clause within the while block. If the condition inside the conditional clause is satisified, then the statements inside the while loop get executed.
+
+##### Do-while loops
+
+Similar to the while loop, the "do-while loop" has the while statement at the end of the loop.
+
+
+##### Break and Continue
+
+Break : Jumps out of the loop.
+continue : jumps to the next iteration.
+
+### Random Class
+
+Random Class in C# is used to generate random numbers.
+
+### Lists
+
+List : Dynamic Sized data structure.
