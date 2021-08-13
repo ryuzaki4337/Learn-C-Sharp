@@ -24,3 +24,62 @@ As the number of classes and namespaces even grow further, you may want to physi
 #### Installation
 
 Follow this link for installaing C# in VSCode : https://channel9.msdn.com/Blogs/dotnet/Get-started-VSCode-Csharp-NET-Core-Windows
+
+### Primitive Types and Expressions
+
+#### Variables and Constants
+
+Variable : A name given to a storage location in memory.
+Constant : An immutable value. Used inorder to increase security.
+
+C# is a case-sensitive language. You cannot use a variable without initializing it. 
+
+Constants are declared using "const". Pascal Case is the recommended naming convention for constant variable and Camel case for normal variables.
+
+Incase of a variable overflow, we can use "checked" keyword for avoiding the overflow. But the code throws an exception.
+
+By using the 'var' keyword, the C# compiler automatically detects the type of the variable.
+
+Format specifiers in  C# are given using {0}, {1}, etc.
+
+#### Type Conversion
+
+##### Implicit Type Conversion
+
+Short data types can be converted to larger data types. For example, a byte can converted into an integer without type casting etc.
+
+##### Explicit Type Conversion
+
+When we try to convert larger data types into smaller data types, then the compiler throws an error, to avoid this we use "type-cating".
+
+##### Non-Compatible Types
+
+For non-compatible types like int and string, we can use Convert.ToInt32() or Parse.int() to convert a string into integer.
+
+#### Operators
+
+##### Arithmetic Operators
+
++, - , *, /, %, ++, --
+
+##### Comparision Operators
+
+==, !=, > , >= , < , <=
+
+##### Assignment Operators
+
+=, +=, -=, *=, /=
+
+##### Logical Operators
+
+&&, ||, !
+
+##### Bitwise Operators
+
+&, |
+
+#### Comments
+
+Inline comments can be written using // ... 
+
+Multiline comments can be written using /* ... */
