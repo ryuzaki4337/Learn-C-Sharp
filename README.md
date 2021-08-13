@@ -83,3 +83,90 @@ For non-compatible types like int and string, we can use Convert.ToInt32() or Pa
 Inline comments can be written using // ... 
 
 Multiline comments can be written using /* ... */
+
+### Non-primitive Types
+
+#### Classes
+
+Combines related variables(fields) and functions(methods).
+
+Objects are instances of a class.
+
+To create a class we need to have a "access modifier" such as public, private etc.
+
+Similar to other languages, we use "new" keyword to create a new object instance.
+
+##### Static Modifier
+
+By adding "static" keyword, we don't need to create an object.
+
+#### Structs
+
+Similar to classes, we can use Structures. Declare using the "struct" keyword.
+
+#### Arrays
+
+Array : A data structure to store a collection of variables of the same type.
+
+When we declare an array, we need to give the size of the array and also by using "new" keyword.
+
+We can access arrays using [] notation.
+
+When we declare an array, all the elements of the array are set to a default value of the data type.
+
+
+#### Strings
+ 
+String : A sequence of characters.
+
+We can concatenate strings using '+'.
+
+We can create strings using "format" method.
+
+We can also create strings using the "join" method.
+
+Each character can be accessed using [].
+
+Strings are immutable.
+
+##### Escape Characters
+
+\n : New line
+\t : Tab
+\\ : BackSlash
+\' : Single Quotation Mark
+\" : Double Quotation Mark
+
+Verbatim Strings are used to avoid confusion while using '\'. For example, the path of a directory etc. To create a verbatim, just put @ at the beginning of the string.
+ 
+ 
+#### Enums
+
+Enum : A set of name/value pairs (constants).
+
+We can create a enum using "enum" keyword.
+
+Enums are used for shipping methods etc.
+
+If we don't set values to enums, then the values are set automatically from zero.
+
+#### Values Types vs. Reference Types
+
+##### Value Types
+
+Structures,
+Primitive Types are declared,
+Allocated on Stack,
+Memory allocation done automatically,
+Immediately removed when out of scope.
+
+##### Reference Types
+
+Classes,
+Non-primitive Types are declared,
+You need to allocate memory,
+Memory allocated on heap,
+Garbage collected by CLR.
+
+
+ 
