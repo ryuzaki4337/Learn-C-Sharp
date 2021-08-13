@@ -5,7 +5,7 @@ In this repo, you'll learn how to code using C# (C-Sharp).
 
 ### Introduction
 
-####C# vs .NET:
+#### C# vs .NET:
 
 C# is a programming language, while .NET is a framework. It consists of a run-time environment (CLR) and a class library that we use for building applications.
 
