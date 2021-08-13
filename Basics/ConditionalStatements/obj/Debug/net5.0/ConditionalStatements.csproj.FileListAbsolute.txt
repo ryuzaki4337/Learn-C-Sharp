@@ -1,0 +1,16 @@
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.AssemblyInfo.cs
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\bin\Debug\net5.0\ConditionalStatements.exe
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\bin\Debug\net5.0\ConditionalStatements.deps.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\bin\Debug\net5.0\ConditionalStatements.runtimeconfig.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\bin\Debug\net5.0\ConditionalStatements.runtimeconfig.dev.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\bin\Debug\net5.0\ConditionalStatements.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\bin\Debug\net5.0\ref\ConditionalStatements.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\bin\Debug\net5.0\ConditionalStatements.pdb
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\obj\Debug\net5.0\ref\ConditionalStatements.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.pdb
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\ConditionalStatements\obj\Debug\net5.0\ConditionalStatements.genruntimeconfig.cache
