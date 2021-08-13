@@ -1,0 +1,16 @@
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
