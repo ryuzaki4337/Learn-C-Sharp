@@ -1,0 +1,16 @@
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\bin\Debug\net5.0\Operators.exe
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\bin\Debug\net5.0\Operators.deps.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\bin\Debug\net5.0\Operators.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\bin\Debug\net5.0\ref\Operators.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\bin\Debug\net5.0\Operators.pdb
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\obj\Debug\net5.0\Operators.csproj.AssemblyReference.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\obj\Debug\net5.0\Operators.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\obj\Debug\net5.0\ref\Operators.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\obj\Debug\net5.0\Operators.pdb
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache
