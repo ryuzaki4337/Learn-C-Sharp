@@ -1,0 +1,16 @@
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\obj\Debug\net5.0\Lists.csproj.AssemblyReference.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\obj\Debug\net5.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\obj\Debug\net5.0\Lists.AssemblyInfoInputs.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\obj\Debug\net5.0\Lists.AssemblyInfo.cs
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\obj\Debug\net5.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\bin\Debug\net5.0\Lists.exe
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\bin\Debug\net5.0\Lists.deps.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\bin\Debug\net5.0\Lists.runtimeconfig.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\bin\Debug\net5.0\Lists.runtimeconfig.dev.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\bin\Debug\net5.0\Lists.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\bin\Debug\net5.0\ref\Lists.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\bin\Debug\net5.0\Lists.pdb
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\obj\Debug\net5.0\Lists.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\obj\Debug\net5.0\ref\Lists.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\obj\Debug\net5.0\Lists.pdb
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\Lists\obj\Debug\net5.0\Lists.genruntimeconfig.cache
