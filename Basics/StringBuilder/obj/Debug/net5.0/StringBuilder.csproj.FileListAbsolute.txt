@@ -1,0 +1,16 @@
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\obj\Debug\net5.0\StringBuilder.csproj.AssemblyReference.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\obj\Debug\net5.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\obj\Debug\net5.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\obj\Debug\net5.0\StringBuilder.AssemblyInfo.cs
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\obj\Debug\net5.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\bin\Debug\net5.0\StringBuilder.exe
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\bin\Debug\net5.0\StringBuilder.deps.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\bin\Debug\net5.0\StringBuilder.runtimeconfig.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\bin\Debug\net5.0\StringBuilder.runtimeconfig.dev.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\bin\Debug\net5.0\StringBuilder.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\bin\Debug\net5.0\ref\StringBuilder.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\bin\Debug\net5.0\StringBuilder.pdb
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\obj\Debug\net5.0\StringBuilder.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\obj\Debug\net5.0\ref\StringBuilder.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\obj\Debug\net5.0\StringBuilder.pdb
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Process\Github\Projects\Learn-C-Sharp\Basics\StringBuilder\obj\Debug\net5.0\StringBuilder.genruntimeconfig.cache
