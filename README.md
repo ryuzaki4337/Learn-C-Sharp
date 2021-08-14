@@ -370,9 +370,17 @@ Access Modifiers : A way to control access to a class and/or its members. There 
 
 Access Modifiers are of five types : Public, Private, Protected, Internal, Protected Internal.
 
-Public : The members of the class can be used anywhere.
+Public : Accessible anywhere.
 
-Private : The members of the class can be accessed or used in the class. The naming convention of the private fields starts with an underscore and must be camel case.
+Private : Accessible only from the class. The naming convention of the private fields starts with an underscore and must be camel case.
+
+Protected : Accessible only from the class and its derived classes.
+
+Internal : Accessible only from the same assembly.
+
+Protected Internal : Accessible only from the same assembly or any deriveded classes.
+
+
 
 #### Property 
 
