@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lalit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lalit\\.nuget\\packages"
+    ]
+  }
+}
