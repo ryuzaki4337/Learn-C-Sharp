@@ -302,3 +302,96 @@ FileInfo doesn't have static members to work with files. It represents a single 
 Security checking is done only during instantiation of FileInfo, and that's why it's more efficient than File if you're executing multiple operations on a given file. Because security checking will be done only once.
 
 
+## Intermediate
+
+### Classes
+
+Class : A building block of an application.
+
+Anatomy of a Class: Data(Variables) and Behaviour(methods).
+
+Object : An instance of a class.
+
+Class name is recommended to be in PascalCase.
+
+#### Class Members
+
+Instance : Accessible from an object.
+
+Static : accessible from the class. Eg : Console.WriteLine().
+
+We can use "static" keyword to declare a member as static.
+
+We can create an object of a class, inside the same class.
+
+#### Constructors
+
+A method that is called when an instance of a class is created.
+
+The use of a constructor is to put an object in an early state.
+
+The Constructor have the same name of the class.
+
+"this" keyword is used to avoid the confusion between the variables have the same name.
+
+Constructor Overloading : The constructors have the same name, but different parameters.
+
+If a member is not initialised in a class, then the default constructor assigns a default value to the member.
+
+#### Object Initializers
+
+A syntax for quickly initializing an object without the need to call one of its constructors.
+
+It is used to avoid creating multiple constructors.
+
+#### Methods
+
+Signature of a method : Name , Number and Type of parameters.
+
+Overloading Methods : Having a method with the same name but different signatures.
+
+"Params" keyword is used before parameters instead of using the "new" keyword.
+ 
+"ref" keyword is used before parameters to convert a value type into references types.
+
+"out" keyword is similar to "ref" keyword but it has other disadvantages.
+
+'ref' and 'out' are not recommended to practice.
+
+#### Fields
+
+Fields : Variables in the class
+
+To make a field readOnly, we can use "readonly" keyword. This is used to increase robustness.
+
+#### Access Modifiers
+
+Access Modifiers : A way to control access to a class and/or its members. There are used to create safety in our programs.
+
+Access Modifiers are of five types : Public, Private, Protected, Internal, Protected Internal.
+
+Public : The members of the class can be used anywhere.
+
+Private : The members of the class can be accessed or used in the class. The naming convention of the private fields starts with an underscore and must be camel case.
+
+#### Property 
+
+A class members that encapsulates a getter/setter for accessing a field. It is used to create a getter/setter for less code.
+
+In terms of naming convention, we should Pascal case for properties.
+
+#### Indexers
+
+A way to access elements in a class that represents a list of values.
+
+An indexer is defined similar to a property but the name of the method must always be "this" and should have [] not ().
+
+
+### Object Oriented Programming 
+
+#### Encapsulation : 
+
+Define fields as private.
+
+Provide getter/setter methods as public.
+
