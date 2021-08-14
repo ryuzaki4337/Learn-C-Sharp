@@ -386,12 +386,38 @@ A way to access elements in a class that represents a list of values.
 
 An indexer is defined similar to a property but the name of the method must always be "this" and should have [] not ().
 
-
 ### Object Oriented Programming 
 
-#### Encapsulation : 
+#### Encapsulation
 
 Define fields as private.
 
 Provide getter/setter methods as public.
+
+#### Class Coupling
+
+A measure of how interconnected classes and subsystems are.
+
+An application whose classes are tightly related are dependent on each other are known as "Tightly coupled application".
+
+Loosely Couped Applications are recommended.
+
+This is implemented using Encapsulation, the relationships between classes and interfaces.
+
+#### Inheritance
+
+A kind of relationship between two classes that allows one to inherit code from the other. IS-A relationship.
+
+Benefits of Inheritance : Code re-use and Polymorphic behaviour.
+
+We inherit from the parent class using ':' character. 
+
+Inheritance can lead to tightly coupling. Thus, less recommended.
+
+#### Composition
+
+A kind of relationship between two classes that allows one to contain the other. HAS-A relationship.
+
+Benefits : Code re-use, flexibility, A means to loose-coupling. Therfore, highly favoured.
+ 
 

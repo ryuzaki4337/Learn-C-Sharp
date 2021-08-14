@@ -1,0 +1,16 @@
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\bin\Debug\net5.0\Inheritance.exe
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\bin\Debug\net5.0\Inheritance.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\obj\Debug\net5.0\Inheritance.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+C:\Users\lalit\Videos\Professional\Tata Digital\Tasks\Learning Journey\C#\Learn-C-Sharp\Intermediate\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
