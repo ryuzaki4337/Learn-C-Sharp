@@ -422,6 +422,14 @@ We inherit from the parent class using ':' character.
 
 Inheritance can lead to tightly coupling. Thus, less recommended.
 
+##### Constructor Inheritance
+
+Base class constructors are always executed first.
+
+Base class constructors are not inherited.
+
+When we use a constructor to initialise a private field in the parent class, it is not possible to create an object of the child class. In such cases, we can use "base" keyword.
+
 #### Composition
 
 A kind of relationship between two classes that allows one to contain the other. HAS-A relationship.

@@ -1,11 +1,10 @@
 using System;
 namespace Constructors
 {
-    public class Customer
+    public class Customer : Person
     {
         public int ID;
         public string name;
-
         public int Age;
 
         public Customer()
