@@ -137,6 +137,46 @@ Each character can be accessed using [].
 
 Strings are immutable.
 
+##### Formatting 
+
+ToLower() : Converts all the characters to lower case.
+ToUpper() : Converts all the characters to upper case.
+Trim() : Trims all the trailing and leading spaces in the string.
+
+
+##### Searching
+
+IndexOf(char/string) : Returns the index of the object.
+LastIndexOf(string/char) : Returns the last index of the object.
+
+##### Substrings
+
+Substring(startIndex) : Returns a substring starting from the startIndex till the end of the string.
+Substring(startIndex,length) : Returns a substring of specified length from the startIndex.
+
+##### Replace
+
+Replace(ToBeReplaced, Into) : Returns the string with the characters/substrings replaced.
+
+##### Null Checking
+
+String.IsNullOrEmpty(str) : Checks whether the string is null or empty.
+String.IsNullOrWhiteSpace(str) : Checks whether the string is null or it has white spaces.
+
+##### Split
+
+str.split(' ') : Splits the string using the characters/substrings, it returns an array of substrings.
+
+##### Converting Strings to Numbers
+
+To convert a string to integer, we can use int.Parse(str) or Convert.ToInt32(str) . 
+
+Convert.ToInt32(str) is recommended as it returns a default value, if the string is null or empty.
+
+##### Converting Numbers to Strings
+
+To convert a number into strings, we can use .ToString() 
+
 ##### Escape Characters
 
 \n : New line
@@ -146,6 +186,15 @@ Strings are immutable.
 \" : Double Quotation Mark
 
 Verbatim Strings are used to avoid confusion while using '\'. For example, the path of a directory etc. To create a verbatim, just put @ at the beginning of the string.
+
+#### String Builder 
+
+Defined in System.Text
+
+A mutable string.
+
+Easy and faster to create and manipulate strings. It is not recommended to use for searching.
+
  
  
 #### Enums
@@ -224,3 +273,32 @@ Random Class in C# is used to generate random numbers.
 ### Lists
 
 List : Dynamic Sized data structure.
+
+### Working with Dates
+
+There is a class called "DateTime" in the system. 
+
+Using the .Now method, we can get the present time and using .Today, we can get Today's date.
+
+Once a date object has been created, we cannot change it. But with can change them using the Add functions.
+
+Intellisense in Vscode displays a lot of specifiers on printing a date.
+
+### Working with Files
+
+All the file related methods are stored in System.IO library.
+
+File, FileInfo : Provide Methods for creating, copying, deleting, moving and opening of files.
+
+FileInfo provides instance methods, whereas File provides static methods.
+
+Directory, DirectoryInfo : Similar to the above.
+Directory provides static methods, whereas the DirectoryInfo provides instance methods.
+
+Path class provides methods to work with a string that contains a file or directory path information.
+
+FileInfo doesn't have static members to work with files. It represents a single file.
+
+Security checking is done only during instantiation of FileInfo, and that's why it's more efficient than File if you're executing multiple operations on a given file. Because security checking will be done only once.
+
+
