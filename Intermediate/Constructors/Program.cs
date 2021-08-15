@@ -1,18 +1,5 @@
-﻿using System;
-
-namespace Constructors
+﻿namespace Constructors
 {
-    public class Person
-    {
-        private readonly string _address;
-
-        public Person(string address)
-        {
-            _address = address;
-
-            Console.WriteLine("The address of the person is : " + _address);
-        }
-    }
     class Program
     {
         static void Main(string[] args)
@@ -34,7 +21,9 @@ namespace Constructors
             // customer3.display();
             // customer3.display2();
 
-            var customer = new customer()
+            var customer = new Customer("XYZ1234");
+
+
         }
     }
 }

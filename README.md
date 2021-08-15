@@ -435,5 +435,40 @@ When we use a constructor to initialise a private field in the parent class, it 
 A kind of relationship between two classes that allows one to contain the other. HAS-A relationship.
 
 Benefits : Code re-use, flexibility, A means to loose-coupling. Therfore, highly favoured.
- 
 
+#### UpCasting and DownCasting
+
+Conversion from a derived class to a base class is known as upcasting.
+ 
+ Conversion from a base class to a derived class is known as downcasting.
+ 
+ The as and is keywords.
+ 
+#### Polymorphism
+
+ Method overriding : Modifying the implementation of an inherited method.
+ 
+#### Abstraction
+
+Abstract Modifier : Indicates that a class or a member is missing implementation.
+
+Abstract Member : Do not include implementation; If a member is declared as abstract, the containing class needs to be declared as abstract too; Must implement all abstract members in the base abstract class; Cannot be instantiated.
+
+Uses of Abstraction : When you want to provide some common behaviour, while forcing other developers to follow your design.
+
+#### Sealed Classes and Modifiers
+
+Sealed Modifier : Prevents derivation of classes or overriding of methods.
+
+Sealed classes are slightly faster because of some run-time optimizations.
+
+Not of much use.
+
+### Interfaces
+
+Interface : A language construct that is similar to a class(in terms of syntax) but is fundamentally different.
+
+Naming Convention of interfaces : Name should start with "I".
+
+Uses : To build loosely-coupled applications.
+	
