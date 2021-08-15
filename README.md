@@ -472,3 +472,44 @@ Naming Convention of interfaces : Name should start with "I".
 
 Uses : To build loosely-coupled applications.
 	
+## Advanced
+
+### Generics
+
+With generics, we create a class once and reuse it multiple times.
+
+Constraints in Generics : 
+
+where T : struct
+where T : class
+where T : new()
+where T : IComparable
+where T : notnull
+where T : default etc.
+
+### Delegates
+
+Delegates : An object that knows how to call a method (or a group of methods). A reference to a function.
+
+We need delegates for designing extensible and flexible applications(eg. frameworks).
+
+Use a delegate when : an eventing design pattern is used; the caller doesn't need to access other properties or methods on the object implementing the method.
+
+### Lambda Expression
+
+An anonymous method : No access modifier, no name and no return statement.
+
+We use them for convenience.
+
+
+For no arguments : () => ...
+For single argument : x => ...
+For multiple argument : (x,y,z) => ...
+
+### Events
+
+A mechanism for communication between objects. Used in building Loosely Coupled Applications. Helps extending applications.
+
+#### Delegates
+
+Agreement/ Contract between Publisher and subscriber. Determines the signature of the event handler method in subscriber.
