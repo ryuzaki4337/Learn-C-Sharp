@@ -1,0 +1,1 @@
+This file is a proof that git is working fine on my corporate laptop.
