@@ -16,6 +16,8 @@ namespace Arrays
             Console.WriteLine(S[1]);
             Console.WriteLine(S[2]);
 
+            Console.WriteLine("All okay");
+
             string[] stringArray = new string[3] {"Jack","Jill","Mary"};
 
             Console.WriteLine(stringArray[0]);
